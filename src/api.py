@@ -18,7 +18,6 @@ import uvicorn
 
 from llamafactory.api.app import create_app
 from llamafactory.chat import ChatModel
-ceshi
 
 
 def main():
